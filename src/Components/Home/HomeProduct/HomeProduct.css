@@ -1,0 +1,41 @@
+.image-box{
+    position: relative;
+}
+
+.icon-box{
+    position: absolute;
+    bottom: -10px;
+    left: 0;
+    right: 0;
+    width: 100%;
+   visibility: hidden;
+   opacity: 0;
+    transition: .3s;
+
+}
+
+.image-box:hover .icon-box {
+    bottom: 0px;
+    visibility: visible;
+    opacity: 1;
+    transition: .3s;
+}
+.cardIcon{
+    
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    align-items: center;
+    
+}
+
+.card-bg{
+    background-color: #ddd;
+    border: 1px solid #ddd;
+}
+
+.icon-bg{
+    background-color: darkkhaki;
+    border: 1px solid darkkhaki;
+}

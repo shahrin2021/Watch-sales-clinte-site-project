@@ -1,0 +1,25 @@
+
+.service-item{
+    display: flex;
+    align-items: center;
+}
+
+.service-icon i{
+    display: block;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    line-height: 80px;
+    font-size: 40px;
+    border: 1px solid darkgray;
+    border-radius: 10px;
+    margin-right: 10px;
+    background-color: #f443c5;
+    color: #fff;
+}
+
+.service-area{
+    /* background-color:; */
+    padding: 50px 0;
+    margin-top: 60px;
+}

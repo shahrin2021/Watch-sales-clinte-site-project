@@ -1,0 +1,19 @@
+.adminForm-area{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100Vh;
+    background-image: url(../../image/admin.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.adminForm{
+     max-width: 600px;
+     border: 1px solid #344CB7;
+     padding: 50px;
+     background-color:#344CB7 ;
+     border-radius: 20px;
+}
+

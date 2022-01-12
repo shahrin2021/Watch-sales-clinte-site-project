@@ -1,0 +1,26 @@
+.review-form-area{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.formArea{
+    border: 1px solid darkseagreen;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(241, 255, 241);
+
+}
+
+.input{
+    background-color: rgb(241, 255, 241);
+    border:1px solid gray !important ; 
+}
+
+.input:focus{
+    outline: none;
+    
+}

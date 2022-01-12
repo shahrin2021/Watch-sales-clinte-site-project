@@ -1,0 +1,22 @@
+.Order-details{
+    box-shadow: 3px 5px 4px 0 ;
+    background-color: darkkhaki;
+    display: flex;
+    align-items: center;
+   margin-bottom: 30px;
+  
+    padding: 20px;
+    
+ 
+}
+
+.ordrtImg{
+width: 100px;
+height:100px;
+object-fit: cover;
+    
+}
+
+.order-section{
+    margin-top: 60px;
+}

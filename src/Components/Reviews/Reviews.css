@@ -1,0 +1,8 @@
+.slideBox{
+    box-shadow: 4px 3px 5px 0 ;
+    padding: 20px;
+    margin-bottom: 60px;
+    background-color: rgba(189, 183, 107, 0.116);
+    border-radius: 10px;
+}
+
